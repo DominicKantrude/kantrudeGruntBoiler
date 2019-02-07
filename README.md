@@ -7,7 +7,7 @@ Use this repository for when you want to start a new modular JavaScript applicat
 ## Setup
 
 1. Clone this repository.
-1. `cd renameThis/src/lib`
+1. `cd KantrudeBoilerPlateStarter/src/lib`
 1. `npm install`
 1. `npm start`
 
