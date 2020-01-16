@@ -1,0 +1,39 @@
+.boardBox{
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+
+    margin:1px;
+}
+.boardRow{
+display: flex;
+flex-direction: row;
+}
+
+.white{
+background-color: white;
+}
+
+.black{
+    background-color: silver;
+}
+
+.piece{
+    width: 90px;
+    height: 90px;
+}
+.bigText{
+    position: relative;
+    bottom: 75px;
+    font-size: 75px;
+}
+#board{
+    width: 100%;
+    height: 100%;
+}
+.redBox{
+    background-color: red;
+}
+.goldBox{
+    background-color: gold;
+}
